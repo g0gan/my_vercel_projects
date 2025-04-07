@@ -13,5 +13,9 @@
 - [Back to the Future clock and weather](https://dakboard-smoky.vercel.app/)  
   Back to the Future clock and weather
 
+
+- [Mandala Generator](https://mandala-creator.vercel.app/)  
+  Mandala generator
+
   
   
