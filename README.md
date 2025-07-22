@@ -18,11 +18,11 @@
   Mandala generator
 
 
-- [open ai free chat](https://open-ai-in-puter-js.vercel.app/)
-  Open ai for free
+- [Open ai free chat](https://open-ai-in-puter-js.vercel.app/)  
+Open ai for free
   
 
 
-- [zenrus](https://zenrus.vercel.app/)
+- [Zenrus](https://zenrus.vercel.app/)  
 Zenrus
   
