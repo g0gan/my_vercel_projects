@@ -17,12 +17,6 @@
 - [Mandala Generator](https://mandala-creator.vercel.app/)  
   Mandala generator
 
-
-- [Open ai free chat](https://open-ai-in-puter-js.vercel.app/)  
-Open ai for free
-  
-
-
 - [Zenrus](https://zenrus.vercel.app/)  
 Zenrus
   
