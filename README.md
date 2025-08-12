@@ -1,9 +1,6 @@
 # My Vercel Projects
 
 
-- [Gradient Text](https://gradient-text-three.vercel.app/)  
-  A CSS-based gradient text generator
-
 - [Year Progress](https://year-progress-seven.vercel.app/)  
   Visualize the current year's progress
 
@@ -22,5 +19,8 @@ Zenrus
 
 - [Crypto prices](https://crypto-site-peach.vercel.app/)  
 Crypto prices
+
+- [Sleep made easy](https://sleep-made-easy.vercel.app/)  
+Sleep made easy
 
   
