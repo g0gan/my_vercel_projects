@@ -19,4 +19,8 @@
 
 - [Zenrus](https://zenrus.vercel.app/)  
 Zenrus
+
+- [Crypto prices](https://crypto-site-peach.vercel.app/)
+Crypto prices
+
   
