@@ -1,5 +1,9 @@
 # 🌐 My Vercel Projects
 
+
+-  🎶 [make you own music ](https://minimal-synth.vercel.app/)  
+  just do it
+
 - 📊 [Github Stats](https://alex-github-strikes.vercel.app/)  
   Current stats for my GitHub profile  
 
