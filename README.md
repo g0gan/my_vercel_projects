@@ -1,7 +1,8 @@
 # 🌐 My Vercel Projects
-
+-  🧙‍♂️[RPG Creature Search App](https://api-endpoint-for-test.vercel.app/)  
+  Choose your warrior
 - 🔢 [roman-numeral-converter](https://roman-numeral-converter-mocha.vercel.app/)  
-  convert your own birthdate
+  Convert your own birthdate
 
 -  🎶 [Make you own music ](https://minimal-synth.vercel.app/)  
   just do it
