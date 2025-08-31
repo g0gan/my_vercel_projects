@@ -1,7 +1,9 @@
 # 🌐 My Vercel Projects
 
+- 🔢 [roman-numeral-converter](https://roman-numeral-converter-mocha.vercel.app/)  
+  convert your own birthdate
 
--  🎶 [make you own music ](https://minimal-synth.vercel.app/)  
+-  🎶 [Make you own music ](https://minimal-synth.vercel.app/)  
   just do it
 
 - 📊 [Github Stats](https://alex-github-strikes.vercel.app/)  
